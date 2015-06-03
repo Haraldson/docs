@@ -86,7 +86,7 @@ lock.show({
 lock.show({
   dict: {
     signin: {
-      title: "Login me in",
+      title: "Log me in",
       emailPlaceholder: "something@youremail.com"
     }
   }
